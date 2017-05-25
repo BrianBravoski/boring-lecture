@@ -1,0 +1,19 @@
+body{
+  background-color: skyblue;
+
+}
+h2.intro{
+  font-family: times;
+  color: green;
+  font-size: 20px;
+}
+p.intr{
+  font-style:normal;
+  text-align: justify;
+}
+img.intro{
+  height: auto;
+  margin: 30px;
+  border-color: red;
+  border: 20px;
+}
